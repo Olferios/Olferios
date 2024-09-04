@@ -1,5 +1,5 @@
 HI I'M OLFER OLAYA
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Diego Contreras
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 # 💫 About Me:
 🔭 I’m currently studying in CAMPUSLANDS<br>👯 I’m looking to learn and improve in JAVA<br>🤝 I’m Industrial engineer with experience in software development project management<br>💬 Ask me about<br>⚡ Fun fact
 
